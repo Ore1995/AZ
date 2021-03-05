@@ -5,7 +5,8 @@ public class azclass {
 	public static void main(String[] args) {
 
 		System.out.println("Hello World");
-		System.out.println("Hello World from Github");
+		System.out.println("Java is hard");
+		
 	}
 
 }
