@@ -6,6 +6,7 @@ public class azclass {
 
 		System.out.println("Hello World");
 		System.out.println("Java is hard");
+		System.out.println("Java is easy");
 		
 	}
 
